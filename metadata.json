@@ -1,0 +1,6 @@
+{
+  "name": "Aurelia Luxury Salon Reference",
+  "description": "An award-winning caliber, premium, responsive luxury brand beauty salon website featuring interactive before/after sliders, secure sheets appointment sync, and direct WhatsApp integrations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
